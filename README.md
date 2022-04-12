@@ -11,23 +11,25 @@
 
 3. 重命名文件
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/50287648/162912347-d6abd78e-53ec-46a6-97b4-3f998084e037.gif)
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/50287648/162913156-058eb394-67c6-42c9-8601-6fcfcdf7f1d4.gif)
 
 4. 删除文件
 
-6. 布局转换
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/50287648/162912347-d6abd78e-53ec-46a6-97b4-3f998084e037.gif)
+
+5. 布局转换
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/50287648/162912414-3fafde8f-822a-416e-a2dc-c1bbe622e4f7.gif)
 
-8. 搜索
+6. 搜索
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/50287648/162912457-cc714eb8-f79b-4bd8-9a2c-cad8e4b87ff4.gif)
 
-10. 右键菜单
+7. 右键菜单
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/50287648/162912474-e58f0462-a674-4c51-a17a-b4a2f266d3c6.gif)
 
-12. 其他汇总
+8. 其他汇总
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/50287648/162912552-13e1abe6-83ff-4e70-b38c-ea132ff63e24.gif)
 
